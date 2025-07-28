@@ -1,6 +1,6 @@
-# React + Vite + Zustant
+# React + Vite + Zustand
 
-Learning Zustant with React.
+Learning Zustand with React.
 
 ## Features
 
